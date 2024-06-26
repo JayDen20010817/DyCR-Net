@@ -13,7 +13,7 @@ Please install all the dependency packages using the following command:
 pip install -r requirements.txt
 ```
 ### Datasets
-MUStARD dataset--[link](https://github.com/soujanyaporia/MUStARD):	 </br>
+MUStARD dataset--[link](https://github.com/soujanyaporia/MUStARD)	 </br>
 Memotion dataset--[link](https://github.com/terenceylchow124/Meme-MultiModal.git) </br>
 UR-FUNNY dataset--[link](https://github.com/ROC-HCI/UR-FUNNY?tab=readme-ov-file) </br>
 
