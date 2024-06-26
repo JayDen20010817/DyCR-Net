@@ -17,7 +17,7 @@ pip install -r requirements.txt
 	Text data - It is available at https://github.com/soujanyaporia/MUStARD in data/sarcasm_data.json location. We also provide train, valid and text dlog ids with them.
 	Audio data - We first obtain raw video from https://github.com/soujanyaporia/MUStARD and convert those videos to audio format corresponding to the last utterance   of every dialog. The we proceed to obtain audio features in the same manner as described in https://github.com/thuiar/MIntRec/tree/main/tools/audio_preprocess.py 
 	Video data - We get raws videos from https://github.com/soujanyaporia/MUStARD and obtain the video features corresponding to last utterance from https://github.com/soujanyaporia/MUStARD under Run the code section point 3 Download the pre-extracted visual features. 
-	Memotion dataset--link[(https://github.com/terenceylchow124/Meme-MultiModal?tab=readme-ov-file)](https://github.com/terenceylchow124/Meme-MultiModal.git)
+	Memotion dataset--[link](https://github.com/terenceylchow124/Meme-MultiModal.git)
 	UR-FUNNY dataset--link(https://github.com/ROC-HCI/UR-FUNNY?tab=readme-ov-file)
 
 ### Pretrained model
