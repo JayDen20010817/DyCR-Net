@@ -30,7 +30,7 @@ Download the pre-trained model clip-vit-base-patch32 and corresponding files fro
 
 ### Train/evaluate the model
 The parameter configuration files for training and testing are in the fold `config/`.
-You can use `train.py` to train a DynRT model. A command template is as follows:
+You can use `train.py` to train a DyCR-Net model. A command template is as follows:
 ```bash
 CUDA_VISIBLE_DEVICES=0 python train.py {path of the parameter configuration file} \
 ```
