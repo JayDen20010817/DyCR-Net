@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Download the pre-trained model roberta-base and corresponding files from 
 [roberta-base](https://huggingface.co/roberta-base/). Put these files in `roberta-base/` folder.
 Download the pre-trained model clip-vit-base-patch32 and corresponding files from 
-[vit](https://huggingface.co/clip-vit-base-patch32/). Put these files in `clip-vit-base-patch32/` folder.
+[vit](https://huggingface.co/openai/clip-vit-base-patch32/). Put these files in `clip-vit-base-patch32/` folder.
 
 ## Model
 
